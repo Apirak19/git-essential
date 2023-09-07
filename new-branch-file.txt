@@ -1,1 +1,2 @@
 a text in new branch file
+an updated detail
